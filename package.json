@@ -1,0 +1,18 @@
+{
+  "name": "last9-azure-event-hub-forwarder",
+  "version": "1.0.0",
+  "description": "Forward Azure Event Hub logs to Last9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["last9", "azure", "event-hub", "forwarder"],
+  "author": "Last9",
+  "license": "Apache-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "type": "module"
+}
